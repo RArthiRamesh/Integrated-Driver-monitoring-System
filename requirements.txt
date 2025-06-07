@@ -1,0 +1,15 @@
+streamlit
+opencv-python
+numpy
+torch
+dlib
+mediapipe
+ultralytics
+pygame
+pyttsx3
+scipy
+pillow
+google-generativeai
+pymongo
+geopy
+geocoder
